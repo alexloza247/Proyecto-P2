@@ -4,6 +4,7 @@
 - Sergio Jaciel Jiménez González
 - Alejandro Lozano Avila
 
-<b>Miniatura</b>
 <hr/>
+<b>Miniatura</b>
+<br>
 <img src="images/miniatura.png" alt="Miniatura">
