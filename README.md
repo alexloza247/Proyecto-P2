@@ -6,5 +6,4 @@
 
 <hr/>
 <h4>Miniatura:</h4>
-<br><br>
 <img src="images/miniatura.png" alt="Miniatura">
