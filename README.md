@@ -1,10 +1,10 @@
 <h3>PUNK RECEPTION</h3>
 
-<b>Integrantes:</b>
+<h4>Integrantes:</h4>
 - Sergio Jaciel Jiménez González
 - Alejandro Lozano Avila
 
 <hr/>
-<b>Miniatura:</b>
+<h4>Miniatura:</h4>
 <br><br>
 <img src="images/miniatura.png" alt="Miniatura">
