@@ -6,4 +6,4 @@
 
 <b>Miniatura</b>
 <hr/>
-<img src="images/1.jpeg" alt="Miniatura">
+<img src="images/miniatura.png" alt="Miniatura">
