@@ -1,4 +1,4 @@
-<h3 text-align="center">PUNK RECEPTION</h3>
+<h3><b>PUNK RECEPTION</b></h3>
 
 <h4>Integrantes:</h4>
 - Sergio Jaciel Jiménez González
