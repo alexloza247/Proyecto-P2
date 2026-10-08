@@ -5,6 +5,6 @@
 - Alejandro Lozano Avila
 
 <hr/>
-<b>Miniatura</b>
+<b>Miniatura:</b>
 <br><br>
 <img src="images/miniatura.png" alt="Miniatura">
